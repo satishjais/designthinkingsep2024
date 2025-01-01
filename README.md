@@ -3,6 +3,13 @@
 **Welcome to "EduBridge,"**  
 An LMS tailored for educational institutions, designed to simplify administrative tasks, enhance teacher-student communication, and optimize learning outcomes. Developed using the **KDT-EAST framework**, this project prioritizes user-centric design, scalability, and technological feasibility.
 
+## Screenshots
+
+### 1. Welcome Page
+![Welcome Page]![WhatsApp Image 2024-08-18 at 8 57 06 PM](![image](https://github.com/user-attachments/assets/9e8a31ec-d8e9-4a95-accf-3a7b62ccd3fa)
+)
+
+
 ## Objectives
 - Streamline attendance tracking, assignment management, and real-time communication.
 - Empower principals, teachers, students, and clerks with an intuitive, centralized platform.
