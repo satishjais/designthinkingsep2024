@@ -9,6 +9,11 @@ An LMS tailored for educational institutions, designed to simplify administrativ
 ![image](https://github.com/user-attachments/assets/68fa7b93-e8f1-4fd3-90b4-a283722db4dc)
 ![image](https://github.com/user-attachments/assets/b0475187-e018-4058-962f-ac0caead7dbd)
 ![image](https://github.com/user-attachments/assets/3f8c1a01-4f77-4eed-a8e2-af76f79b7490)
+![thumbnail1](https://github.com/user-attachments/assets/2d495075-4faa-4c94-bbc3-f7b87e29d733)
+![Screenshot 2025-01-02 035212](https://github.com/user-attachments/assets/18dd50b0-fcdc-4104-ad6a-2e8c81885d81)
+![thumb 2](https://github.com/user-attachments/assets/507824e9-57e1-46b1-aaea-97ac8e354e22)
+![Screenshot (556)](https://github.com/user-attachments/assets/b5e8be1e-f2f6-41fa-8db9-6bdf32be0bf5)
+
 
 ## Objectives
 - Streamline attendance tracking, assignment management, and real-time communication.
