@@ -6,17 +6,17 @@ Finally, we tested our prototype with real users, gathering feedback on usabilit
 ## Presentation Video : [Video Link](https://drive.google.com/file/d/1EVjTxBoMfH6_jmylCyChSwHJrQ4O8F-8/view?usp=drive_link)
 
 ## Test Phase Interviews Interviews :
-Prototyping Testing Interview 1 : [Video Link](https://youtu.be/WLIJcq7kchc)
+Prototype Testing Interview 1 : [Video Link](https://youtu.be/WLIJcq7kchc)
 
-Prototyping Testing Interview 2 : [Video Link](https://youtu.be/LvQIQozCMrk)
+Prototype Testing Interview 2 : [Video Link](https://youtu.be/LvQIQozCMrk)
 
-Prototyping Testing Interview 3 : [Video Link](https://youtu.be/eK6xCMKRjQ4)
+Prototype Testing Interview 3 : [Video Link](https://youtu.be/eK6xCMKRjQ4)
 
-Prototyping Testing Interview 4 : [Video Link](https://youtu.be/cQwo5BJCM3k)
+Prototype Testing Interview 4 : [Video Link](https://youtu.be/cQwo5BJCM3k)
 
-Prototyping Testing Interview 5 : [Video Link](https://youtu.be/mnQGFJNOx4o)
+Prototype Testing Interview 5 : [Video Link](https://youtu.be/mnQGFJNOx4o)
 
-Prototyping Testing Interview 5 : [Video Link](https://youtu.be/Udzl3tj1FAg)
+Prototype Testing Interview 6 : [Video Link](https://youtu.be/Udzl3tj1FAg)
 
 ## Canvas Link : [Link](https://app.mural.co/t/iitmdesignthinkinggp37131/m/iitmdesignthinkinggp37131/1733591457556/d0a1a0fffde7d39754c9c2d59fab9e6536c1229e?sender=ua65982fa5e7f74971ab28893)
 
