@@ -1,11 +1,5 @@
-# Methodology:
-
-We will use the Design Thinking framework, particularly focusing on the Empathize and Define
-stages for Milestone 1. This will involve empathy interviews with each user persona (principal,
-teacher, clerk, and student) to understand their challenges and needs. By creating detailed user
-personas and mapping their journey through the LMS, we will identify critical pain points and
-develop a solution that addresses these issues.
-
+# 💡 Empathize Phase:
+We began by conducting in-depth interviews with key stakeholders—principals, teachers, students, and clerks. These conversations helped us understand their challenges and create detailed user personas and journey maps. From the teacher struggling with manual assignment tracking to the clerk managing mountains of paperwork, we identified real pain points that needed addressing.
 
 ## Customer Pain Points Interviews :
 Student Pain Points Interview by Prem Kumar : [Video Link](https://youtu.be/Xo1_2QfuWI0)
