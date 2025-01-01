@@ -44,6 +44,6 @@ This project followed the **KDT-EAST framework** with the following phases:
 - **Srishti Singh** (21f1006972)
 
 **Course**: BSMS4002: Design Thinking for Data-Driven App Development  
-**Institution**: IIT Madras
+**Institution**: Indian Institute of Technology Madras
 
 ---
