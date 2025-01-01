@@ -1,3 +1,9 @@
+#🔍 Analyze Phase:
+Using tools like root cause analysis and “How Might We” questions, we explored innovative solutions to these challenges. This phase allowed us to prioritize features like attendance automation, assignment management, and streamlined communication, ensuring they addressed users’ core needs.
+
+#🛠️ Solve Phase:
+With insights in hand, we brainstormed solutions and designed low-fidelity wireframes. Stakeholder feedback during this phase was invaluable in refining workflows and ensuring technical feasibility.
+
 # Ritual Dissents:
 
 ## Team 15 Ritual Dissent Video : [Video Link](https://youtu.be/UvKb9dlre_I)
