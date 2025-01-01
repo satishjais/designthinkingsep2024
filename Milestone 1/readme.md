@@ -15,3 +15,6 @@ Clerk Pain Points Interview by Satish Jaiswal : [Video Link](https://youtu.be/gu
 Teacher Pain Points Interview by Shrirang Sapate : [Video Link](https://youtu.be/sN7PkaV70bo)
 
 Principal Pain Points Interview by Srishti Singh : [Video Link](https://youtu.be/e7xA3KeoEeE)
+
+## Canvas 1 :
+Mural Link : [Link](https://app.mural.co/t/designthinkingprojectiitm5488/m/designthinkingprojectiitm5488/1728207946784/d9cfc2f5ce55891b3020dab15969b0fd03aee663?sender=ua65982fa5e7f74971ab28893)
